@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ADS131M08)(type Legacy)(uri /data/electronics/ADS131M08_ti/KiCAD/2021-03-29_18-31-55/ADS131M08.lib)(options "")(descr ""))
+  (lib (name 2021-10-12_04-04-45)(type Legacy)(uri /data/electronics/LMV604MA/KiCAD/2021-10-12_04-04-45/2021-10-12_04-04-45.lib)(options "")(descr ""))
+  (lib (name LMV604MA)(type Legacy)(uri /data/electronics/LMV604MA/KiCAD/2021-10-12_04-04-45/LMV604MA.lib)(options "")(descr ""))
+)
